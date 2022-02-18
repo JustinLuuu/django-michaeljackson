@@ -1,6 +1,6 @@
 # django-michael-jackson
 
-<img src="https://drive.google.com/file/d/1Fw_J-jdM8UXRamR4bKKoWD8usSs3wgkO/view" alt="mj-photo">
+<img src="https://drive.google.com/file/d/1Fw_J-jdM8UXRamR4bKKoWD8usSs3wgkO/view?usp=sharing" alt="mj-photo">
 A middleware library that puts Michael Jackson's information into every response.
 
 ## Installation
