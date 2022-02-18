@@ -22,7 +22,7 @@ LIFE: Dict[str, List[str]] = {  # Copyright: Wikipedia
     'Albums': ['Got to Be There', 'Ben', 'Music & Me', 'Forever, Michael',
                'Off The Wall', 'Thriller', 'Bad', 'Dangerous', 'Invincible', 'Michael', 'Xscape'],
     'Website': ['www.michaeljackson.com'],
-    'Photo_url': 'https://lh6.googleusercontent.com/BHI7PnUTbcV2SfX2Br5sQDXdS8rcvq_rkweaG8MKg53D6IiLILHZgmc90lkyz2DaEwcl8iMn0EySHX6smhNW=w630-h657'
+    'Photo_url': 'https://imgkub.com/images/2022/02/18/Mj.jpg'
 }
 
 
