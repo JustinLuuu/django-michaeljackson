@@ -21,7 +21,8 @@ LIFE: Dict[str, List[str]] = {  # Copyright: Wikipedia
     'Associated acts': ['The Jackson 5', 'The Jacksons'], 
     'Albums': ['Got to Be There', 'Ben', 'Music & Me', 'Forever, Michael',
                'Off The Wall', 'Thriller', 'Bad', 'Dangerous', 'Invincible', 'Michael', 'Xscape'],
-    'Website': ['www.michaeljackson.com']
+    'Website': ['www.michaeljackson.com'],
+    'photo': 'https://'
 }
 
 
